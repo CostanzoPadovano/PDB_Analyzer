@@ -1,9 +1,6 @@
 import os
 import api_cacolatorePDB
 
-pollo = 0.00
-pollo1 = 0.00
-
 Cm = 12.0107
 Nm = 14.0067
 Om = 15.999
