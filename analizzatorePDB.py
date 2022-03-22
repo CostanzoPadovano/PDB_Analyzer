@@ -30,8 +30,7 @@ massa_z = 0
 
 
 tabella = open("dataset", "w+") #dataset diverrà la finestra virtuale tipo txt
-filename = input('/home/costano/Desktop/Progetto_Bioinformatica/ESAME_PYTHON/2qnd.pdb')
-
+filename = input('') #da inserire il path del file pdb
 
 #creare dataset     
 api_cacolatorePDB.PDBcalc(filename,tabella)
