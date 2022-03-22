@@ -91,7 +91,7 @@ for riga in open('dataset'):
         massa_x += MixRi_x
         massa_y += MixRi_y
         massa_z += MixRi_z
-        #print(lista[4], "rigacazzooooo")
+        #print(lista[4])
 
     elif lista[2] == "N":
         MixRi_x = float(Nm) * float(lista[4])
